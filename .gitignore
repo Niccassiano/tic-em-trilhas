@@ -1,0 +1,18 @@
+# executaveis
+*.exe
+
+# arquivos de compilacao
+*.out
+*.o
+
+# diretorios de build
+build/
+bin/
+output/
+
+# vscode
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
