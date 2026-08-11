@@ -1,4 +1,4 @@
-# TIC em Trilhas — Dominando Algoritmos com C
+# 📘 TIC em Trilhas — Dominando Algoritmos com C
 
 > Exercícios e atividades desenvolvidos durante a Trilha **"Dominando Algoritmos com C - Modelo Iterativo"**, promovida pelo **Programa TIC em Trilhas** do **Centro Universitário SENAC**.
 
